@@ -1,0 +1,84 @@
+continent,country,total_deaths,country_rank
+Africa,Egypt,24830,1
+Africa,Ethiopia,7574,2
+Africa,Algeria,6881,3
+Africa,Botswana,2801,4
+Africa,Cameroon,1974,5
+Africa,Angola,1937,6
+Africa,Democratic Republic of Congo,1474,7
+Africa,Ghana,1463,8
+Africa,Eswatini,1427,9
+Africa,Cape Verde,417,10
+Africa,Burkina Faso,400,11
+Africa,Congo,389,12
+Africa,Gambia,372,13
+Africa,Gabon,307,14
+Africa,Chad,194,15
+Africa,Djibouti,189,16
+Africa,Equatorial Guinea,183,17
+Africa,Benin,163,18
+Africa,Comoros,161,19
+Africa,Central African Republic,113,20
+Africa,Eritrea,103,21
+Africa,Burundi,15,22
+Africa,Cote d'Ivoire,NULL,23
+Asia,China,122398,1
+Asia,Bangladesh,29531,2
+Asia,Georgia,17151,3
+Asia,Azerbaijan,10353,4
+Asia,Armenia,8785,5
+Asia,Afghanistan,7998,6
+Asia,Cambodia,3056,7
+Asia,Bahrain,1536,8
+Asia,Brunei,182,9
+Asia,East Timor,138,10
+Asia,Bhutan,21,11
+Europe,Germany,174979,1
+Europe,France,168207,2
+Europe,Czechia,43995,3
+Europe,Greece,40254,4
+Europe,Bulgaria,38778,5
+Europe,Belgium,34339,6
+Europe,Austria,22534,7
+Europe,Croatia,18806,8
+Europe,Bosnia and Herzegovina,16419,9
+Europe,Finland,11466,10
+Europe,Denmark,10012,11
+Europe,Belarus,7118,12
+Europe,Albania,3608,13
+Europe,Estonia,3440,14
+Europe,Cyprus,1364,15
+Europe,Andorra,159,16
+Europe,Gibraltar,113,17
+Europe,Faroe Islands,28,18
+North America,Canada,55282,1
+North America,Costa Rica,9396,2
+North America,Cuba,8530,3
+North America,Dominican Republic,4384,4
+North America,El Salvador,4230,5
+North America,Bahamas,849,6
+North America,Belize,688,7
+North America,Barbados,593,8
+North America,Curacao,305,9
+North America,Aruba,292,10
+North America,Bermuda,165,11
+North America,Antigua and Barbuda,146,12
+North America,Dominica,74,13
+North America,British Virgin Islands,64,14
+North America,Bonaire Sint Eustatius and Saba,41,15
+North America,Cayman Islands,37,16
+North America,Anguilla,12,17
+North America,Greenland,0,18
+Oceania,Australia,25236,1
+Oceania,Fiji,885,2
+Oceania,French Polynesia,650,3
+Oceania,American Samoa,34,4
+Oceania,Cook Islands,2,5
+South America,Brazil,704045,1
+South America,Colombia,142817,2
+South America,Argentina,130850,3
+South America,Chile,64497,4
+South America,Ecuador,36064,5
+South America,Bolivia,22389,6
+South America,French Guiana,413,7
+South America,Falkland Islands,0,8
